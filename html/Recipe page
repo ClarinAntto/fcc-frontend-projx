@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><title>Recipe Book</title>
+  <meta charset="utf-8">
+  </head>
+  
+  <body>
+    <h1>bread omelette</h1>
+    <p> bread omelette is the easy recipe to cook within 3 mins, not too much products are needed</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>egg</li>
+      <li>bread slice</li>
+      <li>oil(only if needed)</li>
+      <li>salt and peper as required</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>on the stove and heat the pan.</li>
+      <li>break the egg and pour on the pan.</li>
+      <li>place a bread slice on the egg.</li>
+      <li>add little oil, salt and pepper.
+      <li>turn it over and wait untill it fully cooked.</li>
+      <li>Congratulations! now it is ready to serve.</li>
+    <img src="https://easyindiancookbook.com/wp-content/uploads/2023/01/bread-omelette-omelet-sandwich-3.jpg" alt="omlette image">
+    </body>
+</html>
