@@ -4,13 +4,13 @@ My solutions to freeCodeCamp's daily coding challenges. Building skills one chal
 
 
 ## About
-This repository tracks my progress through ______'s daily challenges. Each solution includes clean. Perfect for learning and problem-solving as a begginer.
+This repository tracks my progress through daily challenges. Each solution includes clean. Perfect for learning and problem-solving as a begginer.
 
 **Goal:** Complete 365 challenges in 2026!
 
 ## Tech Stack
-- JavaScript (Node.js)
-- Python 3.10+
+- [Python](www,github.com/ClarinAntto/fcc-daily-challenges/Python)
+-  [JavaScript](www.github.com/ClarinAntto/fcc-daily-challenges/JavaScript)
 
 ## Run Locally
 1. Clone the repo:
