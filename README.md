@@ -7,3 +7,4 @@
 5. [customized video player](https://github.com/ClarinAntto/fcc-frontend-projx/blob/main/html/customizing%20video%20player.html)
 6. [List of major Browsers](https://github.com/ClarinAntto/fcc-frontend-projx/blob/main/html/List%20of%20major%20browsers.html)
 7. [Cat Blog page](https://github.com/ClarinAntto/fcc-frontend-projx/blob/main/html/cat%20blog%20page.html)
+8.[Build an Event Hub page](https://github.com/ClarinAntto/fcc-frontend-projx/blob/main/html/Build%20an%20Event%20Hub.html)
