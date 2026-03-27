@@ -10,3 +10,4 @@
 8. [Build an Event Hub page](https://clarinantto.github.io/fcc-frontend-projx/html/Build%20an%20Event%20Hub.html)
 9. [Hotel Feedback Form](https://clarinantto.github.io/fcc-frontend-projx/html/Build%20a%20Hotel%20Feedback%20Form.html)
 10. [Final Exams Table](https://clarinantto.github.io/fcc-frontend-projx/html/Build%20a%20Final%20Exam%20Table.html)
+11. [Book Catalog Table](https://clarinantto.github.io/fcc-frontend-projx/html/Build%20a%20Book%20Catalog%20Table.html)
