@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Collection</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      display: flex;
+      justify-content: center;
+      padding: 50px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 80%;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 12px 15px;
+      text-align: left;
+    }
+    thead {
+      background-color: #4CAF50;
+      color: white;
+    }
+    tfoot td {
+      font-weight: bold;
+      background-color: #f1f1f1;
+      text-align: center;
+    }
+    tbody tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+    tbody tr:hover {
+      background-color: #e0f7fa;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <!-- Table Head -->
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Publication Year</th>
+      </tr>
+    </thead>
+
+    <!-- Table Body -->
+    <tbody>
+      <tr>
+        <td>The Hobbit</td>
+        <td>J.R.R. Tolkien</td>
+        <td>Fantasy</td>
+        <td>1937</td>
+      </tr>
+      <tr>
+        <td>To Kill a Mockingbird</td>
+        <td>Harper Lee</td>
+        <td>Fiction</td>
+        <td>1960</td>
+      </tr>
+      <tr>
+        <td>1984</td>
+        <td>George Orwell</td>
+        <td>Dystopian</td>
+        <td>1949</td>
+      </tr>
+      <tr>
+        <td>Pride and Prejudice</td>
+        <td>Jane Austen</td>
+        <td>Romance</td>
+        <td>1813</td>
+      </tr>
+      <tr>
+        <td>Invisible Man</td>
+        <td>Ralph Ellison</td>
+        <td>Fiction</td>
+        <td>1952</td>
+      </tr>
+    </tbody>
+
+    <!-- Table Footer -->
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+</html>
